@@ -1,0 +1,10 @@
+﻿DESCRICAO,SIGLA
+nome_tipo_endereco,sigla_endereco
+cobranca,COB
+entrega,ENT
+faturamento,FAT
+cobranca/entrega,COB/ENT
+cobranca/faturamento,COB/FAT
+entrega/faturamento,ENT/FAT
+cobranca/entrega/faturamento,COB/ENT/FAT
+fornecedor,FORN
